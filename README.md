@@ -17,7 +17,7 @@
 
 ### Links
 
-- Solution URL: https://github.com/AmiraBenguega.github.io/QR-code-component/
+- Solution URL: https://amirabenguega.github.io/QR-code-component/
 
 ## My process
 
