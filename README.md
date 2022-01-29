@@ -13,7 +13,7 @@
 
 ### Screenshot
 
-![Screenshot 01](./Frontend_Mentor_QR_code_component_screenshot.png)
+![Screenshot 01](./screenshot/Frontend_Mentor_QR_code_component_screenshot.png)
 
 ### Links
 
